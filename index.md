@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: Stop switching between Task Tracker and Design App!
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
