@@ -4,10 +4,9 @@ sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
     subtitle: Stop switching between Task Tracker and Design App!
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      J4F gives you instant access to Jira issues right from Figma to make you
+      more productive.
     actions:
       - label: Google Play
         url: /pricing
