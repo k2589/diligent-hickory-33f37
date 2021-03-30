@@ -20,7 +20,7 @@ header:
       style: link
   has_secondary_nav: true
   secondary_nav_links:
-    - label: Figma Comunity (not available yet)
+    - label: Figma Comunity (soon)
       url: /
       style: primary
   has_anncmnt: true
