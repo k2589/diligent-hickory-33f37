@@ -7,10 +7,7 @@ sections:
     content: >
       J4F gives you instant access to Jira issues right from Figma to make you
       more productive.
-    actions:
-      - label: Google Play
-        url: /pricing
-        style: secondary
+    actions: []
     image: images/good-celery.png
     image_alt: Hero section placeholder image
     media_position: left
