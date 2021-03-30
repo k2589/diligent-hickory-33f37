@@ -23,9 +23,6 @@ header:
     - label: Figma Comunity (not available)
       url: /
       style: primary
-    - label: Google Play
-      url: /pricing
-      style: secondary
   has_anncmnt: true
   anncmnt_content: >-
     Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
