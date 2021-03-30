@@ -21,7 +21,7 @@ header:
   has_secondary_nav: true
   secondary_nav_links:
     - label: Figma Comunity
-      url: /pricing
+      url: /
       style: primary
     - label: Google Play
       url: /pricing
