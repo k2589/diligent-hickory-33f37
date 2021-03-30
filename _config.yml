@@ -20,7 +20,7 @@ header:
       style: link
   has_secondary_nav: true
   secondary_nav_links:
-    - label: Figma Comunity
+    - label: Figma Comunity (not available)
       url: /
       style: primary
     - label: Google Play
