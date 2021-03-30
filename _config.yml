@@ -20,7 +20,7 @@ header:
       style: link
   has_secondary_nav: true
   secondary_nav_links:
-    - label: App Store
+    - label: Figma Comunity
       url: /pricing
       style: primary
     - label: Google Play
