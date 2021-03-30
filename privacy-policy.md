@@ -21,15 +21,15 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-At J4F, accessible from https://j4f.k2589.site, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by J4F and how we use it.
+At J4F, accessible from the Figma Comunity Plugins list, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by J4F and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in J4F. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the [Free Privacy Policy Generator](https://www.privacypolicygenerator.org/).
+This Privacy Policy applies only to our online activities and is valid for visitors to our plugin with regards to the information that they shared and/or collect in J4F. This policy does not apply to any information collected offline or via channels other than the plugin. Our Privacy Policy was created with the help of the [Free Privacy Policy Generator](https://www.privacypolicygenerator.org/).
 
 ## Consent
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+By using our plugin, you hereby consent to our Privacy Policy and agree to its terms.
 
 ## Information we collect
 
@@ -43,35 +43,33 @@ When you register for an Account, we may ask for your contact information, inclu
 
 We use the information we collect in various ways, including to:
 
-*   Provide, operate, and maintain our website
+*   Provide, operate, and maintain our plugin
 
 *   Improve, personalize, and expand our website
 
-*   Understand and analyze how you use our website
+*   Understand and analyze how you use our plugin
 
 *   Develop new products, services, features, and functionality
 
 *   Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
 
-*   Send you emails
-
 *   Find and prevent fraud
 
 ## Log Files
 
-J4F follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+J4F follows a standard procedure of using log files. These files log visitors when they visit the plugin. All hosting companies do this and a part of hosting services' analytics. The information collected by log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any personally identifiable information. The purpose of the information is for analyzing trends, administering the plugin, tracking users' movements on the website, and gathering demographic information.
 
 ## Advertising Partners Privacy Policies
 
-You may consult this list to find the Privacy Policy for each of the advertising partners of J4F.
+Currently, we have no advertisement partners, but if we will, the next topic might be relevant:
 
 Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on J4F, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
 Note that J4F has no access to or control over these cookies that are used by third-party advertisers.
 
-## Third Party Privacy Policies
+## Third-Party Privacy Policies
 
-J4F's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+J4F's Privacy Policy does not apply to other plugins, advertisers, or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
@@ -81,7 +79,7 @@ Under the CCPA, among other rights, California consumers have the right to:
 
 Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
 
-Request that a business delete any personal data about the consumer that a business has collected.
+Request that a business deletes any personal data about the consumer that a business has collected.
 
 Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
 
